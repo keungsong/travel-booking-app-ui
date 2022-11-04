@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-booking-app-ui/static/css/main.48112dc3.css",
+    "main.js": "/travel-booking-app-ui/static/js/main.20613168.js",
+    "static/media/beachVid.mp4": "/travel-booking-app-ui/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/hotel03.jpg": "/travel-booking-app-ui/static/media/hotel03.0a58744c73c90868cf98.jpg",
+    "static/media/kuasi01.jpg": "/travel-booking-app-ui/static/media/kuasi01.b61d0546a992282c56e7.jpg",
+    "static/media/kuasi02.jpg": "/travel-booking-app-ui/static/media/kuasi02.541c088b66b0bd683f32.jpg",
+    "static/media/hotel02.jpg": "/travel-booking-app-ui/static/media/hotel02.183cae7fe74f6beeb3c6.jpg",
+    "static/media/kuagsi04.jpg": "/travel-booking-app-ui/static/media/kuagsi04.0e7473c645b2027141f8.jpg",
+    "static/media/kuagsi.jpg": "/travel-booking-app-ui/static/media/kuagsi.7eaff6cf7c962072c15d.jpg",
+    "static/media/hotel06.jpg": "/travel-booking-app-ui/static/media/hotel06.0a5939780124d00e4b4e.jpg",
+    "static/media/hotel01.jpg": "/travel-booking-app-ui/static/media/hotel01.eace1b822a11e02060e1.jpg",
+    "static/media/kuagsi03.jpg": "/travel-booking-app-ui/static/media/kuagsi03.37b044faa5a38dfa91b0.jpg",
+    "static/media/hotel05.jpg": "/travel-booking-app-ui/static/media/hotel05.154e9e31f847a361e24c.jpg",
+    "static/media/hotel04.jpg": "/travel-booking-app-ui/static/media/hotel04.ff5dc14f192dcd941aa2.jpg",
+    "index.html": "/travel-booking-app-ui/index.html",
+    "main.48112dc3.css.map": "/travel-booking-app-ui/static/css/main.48112dc3.css.map",
+    "main.20613168.js.map": "/travel-booking-app-ui/static/js/main.20613168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48112dc3.css",
+    "static/js/main.20613168.js"
+  ]
+}
